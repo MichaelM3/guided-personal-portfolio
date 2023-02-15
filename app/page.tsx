@@ -1,8 +1,22 @@
+import { NextPage } from "next"
 
-const Homepage = () => {
+const Homepage: NextPage = () => {
     return (
         <div>
-           Homepage 
+            Homepage
+            {/* Header */}
+
+            {/* Hero */}
+
+            {/* About */}
+
+            {/* Experience */}
+
+            {/* Skills */}
+
+            {/* Projects */}
+
+            {/* Contact Me */}
         </div>
     )
 }
